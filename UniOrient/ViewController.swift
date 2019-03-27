@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Test1")
         print("Test2")
         print("Test from mac2")
+        print("Test from mac1")
     }
 
 
