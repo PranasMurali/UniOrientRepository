@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Test1")
         print("Test2")
+        print("Test from mac2")
     }
 
 
