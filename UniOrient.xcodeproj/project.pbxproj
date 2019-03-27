@@ -58,11 +58,11 @@
 			children = (
 				1809452F224B7D5300D98F0A /* AppDelegate.swift */,
 				18094531224B7D5300D98F0A /* ViewController.swift */,
+				2E99CB52224BA31400158CFA /* Branch1ViewController.swift */,
 				18094533224B7D5300D98F0A /* Main.storyboard */,
 				18094536224B7D6300D98F0A /* Assets.xcassets */,
 				18094538224B7D6300D98F0A /* LaunchScreen.storyboard */,
 				1809453B224B7D6300D98F0A /* Info.plist */,
-				2E99CB52224BA31400158CFA /* Branch1ViewController.swift */,
 			);
 			path = UniOrient;
 			sourceTree = "<group>";
