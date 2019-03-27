@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("Test2")
         print("Test from mac2")
         print("Test from mac1")
+        print("mac1Branch1 added")
     }
 
 
